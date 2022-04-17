@@ -1,6 +1,6 @@
 console.log("creacion objeto vacio")
 
 
-const MyFirstObjetc ={}
+const Myobject ={}
 console.log("1. objeto vacio:")
-console.log(MyFirstObjetc)
+console.log(Myobject)
