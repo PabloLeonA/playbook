@@ -1,24 +1,11 @@
-console.log("creacion de un objeto con propiedades")
+console.log("creacion objeto con propiedades")
 
-// const myobjet ={} esto es antes de acceder a propiedades antes de objeto
-const explorer ={
+const Myobject2 ={
+
     name:"pablo",
     age:30,
-    mission:"launch-X",
-
-    // listas
-    stack: ["js","node","react","vue"],
-    // blogs
-    blog:{
-        url:"https://github.com/PabloLeonA/playbook",
-        posts:5
-
-    }// es un objeto
-
+    Programing:"js"
 }
-// console.log(myobject) accesar a datos de propiedades de mi objeto totales
 
-console.log(explorer)
-console.log("accediendo a las propiedades de objeto")
-console.log(explorer.name) //sirve para accesar a propiedades especificas de un objeto
-console.log(explorer["name"]) //acceder a propiedades del objeto otra formaa
+console.log("Ejemplo 2 :objeto con propiedades")
+console.log(Myobject2)
