@@ -1,4 +1,4 @@
-console.log("Ejemplo 8 Metodos statuc nos ayudan a escribir metodos en una clase que podemos usar sin necesidad de instancia algun objeto")
+console.log("Ejemplo 8 Metodos static nos ayudan a escribir metodos en una clase que podemos usar sin necesidad de instancia algun objeto")
 class Toolbox{
     static getMostUsefulTools(){
         return["Command line","git","Text Editor"]
