@@ -28,4 +28,4 @@ const viajero1  = new Viajero("Pablo","LaunchX","Node JS","Abril 2022")
 console.log("Ejemplo 10 overridin methods")
 console.log(viajero1)
 console.log(viajero1.getNameAndUsername()) // metodo de la clase padre
-console.log(viajero1.getGeneralInfo())//metodo de la clase hija
+console.log(viajero1.getGeneralInfo())//metodo de la clase hijaclea
